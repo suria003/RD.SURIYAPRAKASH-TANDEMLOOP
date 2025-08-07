@@ -4,8 +4,6 @@
 #   Output: 
 #     {1: 11, 2: 8, 3: 4, 4: 4, 5: 3, 6: 2, 7: 0, 8: 1, 9: 1}
 
-import time
-
 class Solutions:
 	def __init__(self, arr: list[int]) -> int:
 		self.arr = arr
